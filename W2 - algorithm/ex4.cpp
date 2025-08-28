@@ -22,7 +22,7 @@ int sumCol(const int m[ROWS][COLS], int col) {
  }
 
 
-int main(void) {
+int main(void){
     
     int matrix[ROWS][COLS] = {
         {1, 2, 3},
